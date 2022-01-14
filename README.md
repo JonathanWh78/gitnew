@@ -1,2 +1,2 @@
 # gitnew
-git new
+git new dev
